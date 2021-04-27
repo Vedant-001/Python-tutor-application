@@ -3,7 +3,7 @@ This Repository consists of a code to develop an application which includes basi
 This code will work on all the systems compatible with PyCharm and/or Python and have the kivy package installed. 
 This code makes use of the kivy (.kv) package available in python.
 
-## How to run?: ##
+## How to run? ##
 Load the code in three different files with their respective extensions
 Run 'start.py' and the program should be executed
 
