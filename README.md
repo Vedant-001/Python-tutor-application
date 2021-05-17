@@ -15,10 +15,16 @@ This application provides a test after every lesson and the learner is expected 
 ## References for this project have been taken from the following: ##
 
 • https://en.wikipedia.org/wiki/Python_(programming_languag)
+
 • https://kivy.org/#home
+
 • https://www.youtube.com/watch?v=bMHK6NDVlCM&list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn
+
 • https://www.youtube.com/redirect?v=bMHK6NDVlCM&event=video_description&q=https%3A%2F%2Ftechwithtim.net%2Ftutorials%2Fkivy-tutorial%2Fsetup&redir_token=UpYsuaflhHOugJAFKVQ7AOrIkrd8MTU5MTU1NTA1NEAxNTkxNDY4NjU0
+
 • https://www.youtube.com/redirect?v=bMHK6NDVlCM&event=video_description&q=https%3A%2F%2Ftechwithtim.net&redir_token=UpYsuaflhHOugJAFKVQ7AOrIkrd8MTU5MTU1NTA1NEAxNTkxNDY4NjU0
+
 • https://www.programiz.com/
+
 • Book – ‘Python Programming for Beginners’ – Joseph 
 Joyner
